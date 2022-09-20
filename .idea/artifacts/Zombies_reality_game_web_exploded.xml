@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Zombies_reality_game:web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Zombies_reality_game_web_exploded</output-path>
+    <root id="archive" name="Zombies_reality_game_web exploded.war">
+      <element id="javaee-facet-resources" facet="Zombies_reality_game/web/webapp" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Zombies_reality_game" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Zombies_reality_game/web/webApp" />
+      <element id="archive" name="archive.jar" />
+    </root>
+  </artifact>
+</component>
